@@ -4,10 +4,9 @@ public class alum{
 
 	 
 	 }
+public void doSomething(){
+   
+      //Code Here
 
-
-
-
-
-
+}
 }
